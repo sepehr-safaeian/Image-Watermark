@@ -27,7 +27,13 @@
 <pre><code>git clone https://github.com/sepehr-safaeian/Image-Watermark.git
 cd Image-Watermark
 </code></pre>
+<ol>
+  <li>Add logo:</li>
+</ol>
 
+<pre>
+Add your logo to current path
+</pre>
 <ol start="2">
   <li>Build the executable:</li>
 </ol>
@@ -61,7 +67,3 @@ cd Image-Watermark
 <h2>License</h2>
 
 <p>This project is licensed under the <a href="https://opensource.org/licenses/GPL-3.0">GPL-3.0 License</a> - see the <a href="https://github.com/sepehr-safaeian/Image-Watermark/blob/main/LICENSE">LICENSE</a> file for details.</p>
-
-<h2>Acknowledgments</h2>
-
-<p>Logo used for watermarking: <a href="logo.png">logo.png</a></p>
