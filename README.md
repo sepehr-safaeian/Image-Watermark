@@ -1,16 +1,3 @@
-سلام! البته در README فرمت HTML معمولاً به کار نمی‌رود، اما اگر شما اصرار دارید، می‌توانید از کد HTML زیر برای README خود استفاده کنید:
-
-html
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Watermarking Tool</title>
-</head>
-<body>
-
 <h1>Image Watermarking Tool</h1>
 
 <p>This Go program adds a watermark to images in a specified folder. It takes user input for the folder path and creates watermarked images in a new folder.</p>
